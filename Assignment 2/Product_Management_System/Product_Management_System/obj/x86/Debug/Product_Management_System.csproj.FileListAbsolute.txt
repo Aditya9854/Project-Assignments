@@ -1,0 +1,12 @@
+C:\C#\Product_Management_System\Product_Management_System\bin\Debug\Product_Management_System.exe
+C:\C#\Product_Management_System\Product_Management_System\bin\Debug\Product_Management_System.pdb
+C:\C#\Product_Management_System\Product_Management_System\obj\x86\Debug\Product_Management_System.frm_Login_Form.resources
+C:\C#\Product_Management_System\Product_Management_System\obj\x86\Debug\Product_Management_System.Properties.Resources.resources
+C:\C#\Product_Management_System\Product_Management_System\obj\x86\Debug\Product_Management_System.csproj.GenerateResource.Cache
+C:\C#\Product_Management_System\Product_Management_System\obj\x86\Debug\Product_Management_System.exe
+C:\C#\Product_Management_System\Product_Management_System\obj\x86\Debug\Product_Management_System.pdb
+C:\C#\Product_Management_System\Product_Management_System\obj\x86\Debug\Product_Management_System.csprojResolveAssemblyReference.cache
+C:\C#\Product_Management_System\Product_Management_System\bin\Debug\Product_Management_System.exe.config
+C:\C#\Product_Management_System\Product_Management_System\obj\x86\Debug\Product_Management_System.frm_View_All_Products.resources
+C:\C#\Product_Management_System\Product_Management_System\obj\x86\Debug\Product_Management_System.frm_Add_New_Product.resources
+C:\C#\Product_Management_System\Product_Management_System\obj\x86\Debug\Product_Management_System.frm_Search_Product.resources
